@@ -1,0 +1,14 @@
+.profile-image{
+    height: 100px;
+    width: 100px;
+}
+
+.example-card{
+    width:100px;
+    float:left;
+    margin:5px;
+}
+
+.mat-card-header{
+    float: right;
+}
